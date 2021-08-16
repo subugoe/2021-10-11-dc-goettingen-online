@@ -438,6 +438,7 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 {% endcomment %}
+
 <div id="openrefine">
   <h3>OpenRefine</h3>
   <p>
