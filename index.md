@@ -545,10 +545,6 @@ to obtain the software and data you will need to follow the lesson.
       </article>
     </div>
   </div>
-
-  <p><strong>If you installed Anaconda, it also has a copy of SQLite
-      <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
-      Instructors will provide a workaround for it if needed.</strong></p>
 </div>
 
 <div id="r">
